@@ -2,4 +2,4 @@
 
 This use arduino and Pixel LEDs. 
 
-![Trawler Logo](https://i.postimg.cc/3JtvNypF/Trawler-transparent2-128x128.png)
+![Image of Light Board](https://i.postimg.cc/cCfFfjsS/IMG-20211029-155005.jpg)
